@@ -5,6 +5,8 @@ This tool has been written to support my undergraduate final year project with I
 Useful links:
 * [gqrx] - Linux and GNURadio based SDR software
 * [sdrsharp] - Windows based SDR software  
+* [gqrxd] - Description of conversion
+* [soxcmd] - Raw command in use
 
 # Usage
 Copy the *sox_convert.py* into the folder containing the *.RAW files to be converted. The script will create an output folder *soxoutput/* that will contain the *.WAV files.
@@ -34,4 +36,6 @@ MIT
 [//]: # 
    [gqrx]: <http://gqrx.dk/>
    [sdrsharp]: <https://airspy.com/download/>
+   [gqrxd]: <https://www.bastibl.net/gqrx-for-digital-signals/>
+   [soxcmd]: <https://gist.github.com/sam210723/4a194903e66f5d0147782bfbcea79f80>
    
